@@ -1,0 +1,12 @@
+# 폴더 무시
+cut_data/
+data/
+output_cut/
+pattern_out/
+test/
+test_module/
+mla_data/
+
+# 특정 파일 무시
+black_only_out.png
+crooped_image.png
